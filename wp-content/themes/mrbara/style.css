@@ -1169,7 +1169,7 @@ body {
   max-width: 400px;
   margin: 0 auto;
 }
-/* 
+/*
 
 ====== Zoom effect ======
 
@@ -1202,7 +1202,7 @@ body {
 .mfp-zoom-in.mfp-removing.mfp-bg {
   opacity: 0;
 }
-/* 
+/*
 
 ====== Newspaper effect ======
 
@@ -1236,7 +1236,7 @@ body {
 .mfp-newspaper.mfp-removing.mfp-bg {
   opacity: 0;
 }
-/* 
+/*
 
 ====== Move-horizontal effect ======
 
@@ -1269,7 +1269,7 @@ body {
 .mfp-move-horizontal.mfp-removing.mfp-bg {
   opacity: 0;
 }
-/* 
+/*
 
 ====== Move-from-top effect ======
 
@@ -1305,7 +1305,7 @@ body {
 .mfp-move-from-top.mfp-removing.mfp-bg {
   opacity: 0;
 }
-/* 
+/*
 
 ====== 3d unfold ======
 
@@ -1342,7 +1342,7 @@ body {
 .mfp-3d-unfold.mfp-removing.mfp-bg {
   opacity: 0;
 }
-/* 
+/*
 
 ====== Zoom-out effect ======
 
@@ -1375,7 +1375,7 @@ body {
 .mfp-zoom-out.mfp-removing.mfp-bg {
   opacity: 0;
 }
-/* 
+/*
 
 ====== "Hinge" close effect ======
 
@@ -22811,4 +22811,9 @@ body.boxed {
 .boxed .products-carousel-2.carousel-style-3 .slick-arrow-right,
 .boxed .mrbara-products-picks.products-navi-3 .owl-controls .owl-buttons .owl-next {
   right: 50px;
+}
+
+
+.home .site-banner h1, .home .site-banner .breadcrumbs{
+    display: none;
 }

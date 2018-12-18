@@ -29,7 +29,7 @@ define('DB_USER', 'alirazam_mohalla');
 define('DB_PASSWORD', 'Pakistan@143');
 
 /** MySQL hostname */
-define('DB_HOST', '192.185.41.202');
+define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
